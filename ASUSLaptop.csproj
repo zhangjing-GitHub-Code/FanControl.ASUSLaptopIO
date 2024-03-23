@@ -49,6 +49,7 @@
     <Compile Include="ASUSLaptop.cs" />
     <Compile Include="ASUSLaptopSensor.cs" />
     <Compile Include="AsusWinIO64.cs" />
+    <Compile Include="DllInvoker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

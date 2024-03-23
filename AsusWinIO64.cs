@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-
 namespace FanControl.ASUSLaptop
 {
     public class AsusWinIO64
